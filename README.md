@@ -1,2 +1,1 @@
-# Assignment1
-using this for my first assignment in 587
+initial commit for the week 1 assignment
